@@ -3,7 +3,7 @@ import {AppBar, IconButton, Toolbar, Typography} from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import Brightness4Icon  from '@mui/icons-material/Brightness4';
 import Brightness7Icon  from '@mui/icons-material/Brightness7';
-import {ColorModeContext, useTheme} from '../../hooks/useTheme';
+import {ColorModeContext, useTheme} from '../../hooks/Theme';
 
 
 const Header: React.FC = () => {
